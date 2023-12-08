@@ -1,4 +1,3 @@
-[![MasterHead](https://www.linkedin.com/in/ademkok/overlay/background-image)](https://www.linkedin.com/in/ademkok/overlay/background-image/)
 <h1 align="center">Hi 👋, I'm Adem Kok</h1>
 <h3 align="center">A passionate Backend developer from Germany</h3>
 
